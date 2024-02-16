@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/P3_Distance.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
