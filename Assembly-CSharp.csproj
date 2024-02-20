@@ -65,10 +65,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Character/Movimiento_RigidBody.cs" />
+    <Compile Include="Assets/Scripts/TriggerDetection_Singleton.cs" />
     <Compile Include="Assets/Character/M_Plataforma.cs" />
+    <Compile Include="Assets/Scripts/SingletonScripts/SingletonDatosJuego.cs" />
     <Compile Include="Assets/Scripts/P3_Distance.cs" />
+    <Compile Include="Assets/Scripts/P_Distancia_Singleron.cs" />
     <Compile Include="Assets/Scripts/P1_LookAt.cs" />
     <Compile Include="Assets/Scripts/MovTransform.cs" />
+    <Compile Include="Assets/Scripts/SingletonScripts/SingletonDatos.cs" />
+    <Compile Include="Assets/Scripts/P_MovTowards_Singleton.cs" />
     <Compile Include="Assets/Character/Mouse_RotarPersonaje.cs" />
     <Compile Include="Assets/Scripts/P2_MoveTowards.cs" />
     <Compile Include="Assets/Scripts/LookAt.cs" />

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/P3_Distance.unity
+- path: Assets/Scenes/LogicaEnemigo/P4_LogicaEnemigo.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

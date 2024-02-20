@@ -361,6 +361,11 @@
 "Assets/Scripts/P2_MoveTowards.cs"
 "Assets/Scripts/P3_Distance.cs"
 "Assets/Scripts/P4_MoveTowardsV2.cs"
+"Assets/Scripts/P_Distancia_Singleron.cs"
+"Assets/Scripts/P_MovTowards_Singleton.cs"
+"Assets/Scripts/SingletonScripts/SingletonDatos.cs"
+"Assets/Scripts/SingletonScripts/SingletonDatosJuego.cs"
+"Assets/Scripts/TriggerDetection_Singleton.cs"
 -langversion:9.0
 
 /deterministic
